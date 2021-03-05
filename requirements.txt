@@ -1,1 +1,2 @@
-speedtest==0.0.1
+pyspeedtest==1.2.7
+speedtest-cli==2.1.2
